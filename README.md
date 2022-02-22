@@ -1,6 +1,6 @@
 - 👋 Chào, my name is Tri Hoang/congtr_/ctriapr7.
 - 👀 I’m interested in AI, Software Development, and investing.
-- 🌱 I’m currently learning TypeScript, Python, and Kotlin.
+- 🌱 I’m currently learning TypeScript, Python, and Kotlin, but I'm always open to learn anything new.
 - 💞️ I’m looking to collaborate on Java, Android and AI projects. 
 - 📫 Feel free to reach out to me: hoangcongtri74@gmail.com or congtr_ on Instagram (cafe let's go).
 
